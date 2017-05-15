@@ -1,1 +1,6 @@
-
+name: #plugin name
+main: Author/main
+version: 1.0dev
+api: 3.0.0-ALPHA5
+author: #Author
+website: imgcl.co
