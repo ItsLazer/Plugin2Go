@@ -10,6 +10,6 @@ class main extends PluginBase {
         $this->getLogger()->info("{Plugin Name} enabled.");
     }
     public function onDisable(){
-        $this->getLogger()->info("{Plugin Name] disabled.");
+        $this->getLogger()->info("{Plugin Name} disabled.");
     }
 }
